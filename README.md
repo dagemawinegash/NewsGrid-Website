@@ -10,4 +10,4 @@ Check out the live demo of the News Grid Website here: [News Grid Demo](https://
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dagemawibekele/NewsGrid-Website.git
+   git clone https://github.com/dagemawinegash/NewsGrid-Website.git
